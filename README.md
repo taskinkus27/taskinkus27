@@ -23,4 +23,5 @@ Status
 
 Get in touch
 LinkedIn: https://www.linkedin.com/in/ta%C5%9Fk%C4%B1n-ku%C5%9F-7998222a7/
+
 Email: kustaskin@gmail.com
