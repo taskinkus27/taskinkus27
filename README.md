@@ -2,10 +2,12 @@ Hi, I'm Taskin 👋
 
 Computer Engineering student at Manisa Celal Bayar University, interested in AI and cybersecurity. I like understanding why a system works the way it does, not just getting it to run.
 
+🔥Daily AI Builder: I actively build and deploy an AI-powered project every day, combining LLMs (Google Gemini API) with low-level systems, cybersecurity, and networking.
+
 What I work on
-Low-level and systems programming: multithreading in C, microcontrollers in Assembly
 Network design and security: secure LAN design and simulation
 Reinforcement learning: currently working on a game-playing agent for my graduation project
+Low-level and systems programming: multithreading in C, microcontrollers in Assembly
 Tools & technologies
 
 C Assembly Python pthreads MPLAB PIC16F877A Cisco Packet Tracer Huawei eNSP Git
